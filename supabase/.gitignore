@@ -1,0 +1,18 @@
+node_modules
+.next
+.turbo
+coverage
+
+
+*.log
+.DS_Store
+# Supabase
+.branches
+.temp
+
+# dotenvx
+.env.keys
+.env.local
+.env.*.local
+
+
